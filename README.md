@@ -1,4 +1,4 @@
-# EstruturasDeDados  
+# Estruturas de Dados   
 Repositório criado para compartilhar os projetos desenvolvidos na disciplina de Estruturas de Dados da faculdade.
 
 ## Tecnologias Utilizadas  
